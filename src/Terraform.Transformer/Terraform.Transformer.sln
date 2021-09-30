@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraform.Transformer.Engine", "Terraform.Transformer\Terraform.Transformer.Engine.csproj", "{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraform.Transformer.Contracts", "Terraform.Transformer.Contracts\Terraform.Transformer.Contracts.csproj", "{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273FEA19-D054-46CF-99E3-E6CEC9CD8F43}
+	EndGlobalSection
+EndGlobal
