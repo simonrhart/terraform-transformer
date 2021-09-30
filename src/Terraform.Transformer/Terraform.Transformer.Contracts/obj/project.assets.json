@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repositories\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
+      "projectUniqueName": "C:\\repositories\\terraform-transformer\\src\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
       "projectName": "Terraform.Transformer.Contracts",
-      "projectPath": "c:\\repositories\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
+      "projectPath": "C:\\repositories\\terraform-transformer\\src\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
       "packagesPath": "C:\\Users\\Simon Hart\\.nuget\\packages\\",
-      "outputPath": "c:\\repositories\\Terraform.Transformer\\Terraform.Transformer.Contracts\\obj\\",
+      "outputPath": "C:\\repositories\\terraform-transformer\\src\\Terraform.Transformer\\Terraform.Transformer.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

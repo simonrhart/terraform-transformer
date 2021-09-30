@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmsM65t52YiyTvMMMqmnosaVUGQ9iOfYVSII3zfmL5sHAK6PitSu/WuD9CGwoFPJ416d1z1QrLuwItGSZHOsyQ==",
+  "dgSpecHash": "tkpfi/xx0j4Y3VzKv5RnKk2AcIRTap1HLlqXRQxycJrzleV8QIp6uGgjb+3WQavUlMPAwjeX17VYAEyGPgSGGA==",
   "success": true,
-  "projectFilePath": "c:\\repositories\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
+  "projectFilePath": "C:\\repositories\\terraform-transformer\\src\\Terraform.Transformer\\Terraform.Transformer.Contracts\\Terraform.Transformer.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

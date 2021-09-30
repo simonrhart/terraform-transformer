@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraform.Transformer.Engine", "Terraform.Transformer\Terraform.Transformer.Engine.csproj", "{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraform.Transformer.Engine", "Terraform.Transformer.Engine\Terraform.Transformer.Engine.csproj", "{4E6F8D1A-4DD0-4DF5-A8B4-E33CC4140D22}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraform.Transformer.Contracts", "Terraform.Transformer.Contracts\Terraform.Transformer.Contracts.csproj", "{73A4B2F4-2E0E-4CB8-ADDB-3F2BCD25F417}"
 EndProject
